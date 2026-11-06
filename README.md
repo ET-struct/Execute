@@ -1,4 +1,4 @@
-# Lab [Number] — [Lab or Module Title]
+#Execute Stage of the MIPS Pipeline 
 <!--
 Replace every item in square brackets before submitting.
 Keep this README focused on what the design does, how it is used, and how it was
