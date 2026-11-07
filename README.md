@@ -15,8 +15,11 @@
 
 #### Architecture
 ##### Timing or Behavioral Summary
+###### Execute
 ![executetb Timing Diagram](images/executetb_timing_diagram.png)
+###### ALU Control
 ![alu_controltb Timing Diagram](images/alu_contoltb_timing_diagram.png)
+###### ALU
 ![alutb Timing Diagram](images/alutb_timing_diagram.png)
 
 #### Implementation
@@ -47,9 +50,11 @@ Verification covers:
 *   Integrated dataflow and sequential clock synchronization in the top-level `execute` module via `executetb.v`.
 
 ##### Testbench and Waveform
-
+###### Execute
 ![executetb Timing Diagram](images/executetb_timing_diagram.png)
+###### ALU Control
 ![alu_controltb Timing Diagram](images/alu_contoltb_timing_diagram.png)
+###### ALU
 ![alutb Timing Diagram](images/alutb_timing_diagram.png)
 
 The primary integrated testbench source is [`executetb.v`](https://github.com/ET-struct/Execute/blob/main/executetb.v).
