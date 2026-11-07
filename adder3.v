@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module adder(
+module adder3(
     input wire [31:0] add_in1,
     input wire [31:0] add_in2,
     output wire [31:0] add_out
