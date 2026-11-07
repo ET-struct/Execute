@@ -1,4 +1,4 @@
-module executetb;
+module executetb();
     reg clk;
     reg [1:0] ctlwb_in, ctlm_in;
     reg [31:0] npc, rdata1, rdata2, s_extend;
