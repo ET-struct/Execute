@@ -25,7 +25,7 @@ ALUsub: result = a - b;
 ALUand: result = a & b; // changed to bit-wise AND, should not be logical AND
 ALUor: result = a | b; // changes to bit-wise OR,  should not be logical OR
 ALUslt: result = a < b ? 1 - sign_mismatch : 0 + sign_mismatch; // (0)
-default: result = 32'bX; // control = ALUx | *
+default: result = 32'b0; // control = ALUx | *
 endcase
 
 assign zero = (result == 0) ? 1 : 0;
