@@ -32,6 +32,7 @@ module alu_controltb(
     funct = 6'b101010; // select = 111
     #1
     alu_op = 2'b00;
+    #1
     $finish;
     end
     endmodule //alu_control_testbench
