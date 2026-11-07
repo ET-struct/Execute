@@ -18,7 +18,7 @@
 ###### Execute
 ![executetb Timing Diagram](images/executetb_timing_diagram.png)
 ###### ALU Control
-![alu_controltb Timing Diagram](images/alu_contoltb_timing_diagram.png)
+![alu_controltb Timing Diagram](images/alu_controltb_timing_diagram.png)
 ###### ALU
 ![alutb Timing Diagram](images/alutb_timing_diagram.png)
 
@@ -53,7 +53,7 @@ Verification covers:
 ###### Execute
 ![executetb Timing Diagram](images/executetb_timing_diagram.png)
 ###### ALU Control
-![alu_controltb Timing Diagram](images/alu_contoltb_timing_diagram.png)
+![alu_controltb Timing Diagram](images/alu_controltb_timing_diagram.png)
 ###### ALU
 ![alutb Timing Diagram](images/alutb_timing_diagram.png)
 
