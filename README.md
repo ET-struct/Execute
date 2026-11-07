@@ -100,12 +100,12 @@ ALUOp = 01	funct = 100000	select = 110
 ├── alu.v
 ├── alu_control.v
 ├── bottom_mux.v
-├── top_mux.v
 ├── ex_mem.v
 ├── execute.v
 ├── alutb.v
 ├── alu_controltb.v
-└── executetb.v
+├── executetb.v
+└── top_mux.v
 ```
 ## Known Issues and Future Improvements
 
