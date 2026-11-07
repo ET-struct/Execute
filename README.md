@@ -93,9 +93,9 @@ ALUOp = 01	funct = 100000	select = 110
 .
 ├── README.md
 ├── images/
-│   ├── executetb_timing_diagram.png
 │   ├── alu_contoltb_timing_diagram.png
-│   └── alutb_timing_diagram.png
+│   ├── alutb_timing_diagram.png
+│   └── executetb_timing_diagram.png
 ├── adder3.v
 ├── alu.v
 ├── alu_control.v
